@@ -1,4 +1,4 @@
-# 배우고 있는 개발자
+# 개발하는 머학생
 
 저의 페이지에 어서오세요!
 
@@ -24,9 +24,9 @@
 
 <!-- .slide vertical=true -->
 
-School of Data and Computer Science, Sun Yat-sen University, Guangzhou
+School of Game content department, Jangan University, Hwaseong
 
-- Bachelor of Computer Science (Supercomputer Class), Sept. 2017 - Jul. 2021(expected)
+- Bachelor of Computer Science (Game Development Class), Mar. 2020 - Jan. 2026(expected)
   - Principle of Supercomputer
   - Parallel and Distributed Computing
   - High Performance Computing
