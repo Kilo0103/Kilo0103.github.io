@@ -1,22 +1,22 @@
-# 星合の空
+# 배우고 있는 개발자
 
-欢迎访问我的个人主页！下面向你介绍一下我自己吧\~
+저의 페이지에 어서오세요!
 
 <!-- .slide -->
 
 ## Contact
 
-- Address: **Sun Yat-sen University - 132 Waihuan East Rd. - Guangzhou, China**
-- Phone: **+86 18756280097**
-- Site: **<https://wu-kan.cn>**
+- Address: **Suwon, Kr**
+- Phone: **+82 1027675094**
+- Site: **NULL**
 
 <!-- .slide vertical=true -->
 
 - E-mail:
-  - **[i@wu-kan.cn](mailto:i@wu-kan.cn)**
-  - **[wukan3@mail2.sysu.edu.cn](mailto:wukan3@mail2.sysu.edu.cn)**
-- WeChat: **Wu-\_-Kan**
-- QQ: **942759535**
+  - **[kilo0103@naver.com](mailto:kilo0103@naver.com)**
+  - **[kyjkyj0816@gmail.com](mailto:kyjkyj0816@gmail.com)**
+- Kakao: **kyjkyj0103**
+- discord: **KaraHaru#0001**
 
 <!-- .slide -->
 
