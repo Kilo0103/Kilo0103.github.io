@@ -1,23 +1,20 @@
-title: wu-kan # 站点标题
-description: | # 头像背后的信息（html格式），<br/>代表换行
-  SYSU超算17级在读<br/>
-  水野爱<br/>
+title: Kilo's Blog # 제목
+description: | # 프로필 뒷면정보(html 포맷), <br/>는 줄바꿈을 나타냅니다.
+  JangAn20학번<br/>
+  FPS매니아<br/>
   HPC<br/>
-  田宫例四驱车<br/>
-  <a href="mailto:i@wu-kan.cn">
+  퀘스트2보유(?)<br/>
+  <a href="mailto:kyjkyj0816@gmail.com">
     <i class="fas fa-envelope"></i>
   </a>
-  <a href="https://github.com/wu-kan">
+  <a href="https://github.com/Kilo0103">
     <i class="fab fa-github"></i>
   </a>
-  <a href="https://codeforces.com/profile/WuK">
-    <i class="fas fa-chart-bar"></i>
+  <a href="https://www.instagram.com/karaharu.private/">
+    <i class="fab fa-instagram"></i>
   </a>
-  <a href="https://vjudge.net/user/WuK">
-    <i class="fas fa-smile"></i>
-  </a>
-  <a href="https://www.zhihu.com/people/wu.kan/activities">
-    <i class="fab fa-zhihu"></i>
+  <a href="https://www.facebook.com/profile.php?id=100014872834942">
+    <i class="fab fa-facebook-square"></i>
   </a>
   <iframe
     src="https://music.163.com/outchain/player?type=0&id=155059595&auto=0&height=32"
@@ -28,15 +25,15 @@ description: | # 头像背后的信息（html格式），<br/>代表换行
     marginwidth="0"
     marginheight="0"
   ></iframe>
-url: https://wu-kan.cn # 你的域名，例如 https://wu-kan.github.io
-baseurl: "" # 假如你的博客是建在某个目录下的，请在这里加上目录名，并且下面配置的所有链接里的`/assets`前也要加，即`/your_baseurl/assets`。这一项结尾不要有'/'。
+url: https://kilo0103.github.io # https://wu-kan.github.io와 같은 도메인 이름
+baseurl: "" # 만일 당신의 블로그가 어떤 목록 아래에 건설되었다면, 여기에 목록명을 더하세요. 그리고 아래에 배치된 모든 링크 안의 `/assets` 앞에도 더하세요. 바로 `/your_baseurl/assets`입니다.이 끝에는 '/'가 없어야 한다.
 
-defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/front-matter-defaults/>功能进行配置
+defaults: # 모든 구성 옵션을 <https://jekyllrb.com/docs/configuration/front-matter-defaults/> 기능을 사용하여 구성
   - scope:
-      path: "" # an empty string here means all files in the project
-    values: # 以下配置项也可以在任意页面自定义
+      path: "" # 빈 문자열은 프로젝트의 모든 파일을 의미합니다.
+    values: # 아래의 배치항은 임의 페이지에서 자체 정의할 수 있다
       categories: "_posts"
-      jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
+      jekyll-theme-WuK: # 내 주제의 자체 정의 양식은 모두 이 명명 공간에 있다
         default:
           body:
             theme-base: theme-base-07 # 可选的主题色包括08~0f，见 <https://github.com/poole/lanyon>
