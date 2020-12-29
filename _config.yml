@@ -36,7 +36,7 @@ defaults: # 모든 구성 옵션을 <https://jekyllrb.com/docs/configuration/fro
             sidebar-overlay: true # 열어서 사이드바에 의해 본문이 움직이지 않고
           append_to_head: 
           # 내장형 html방식으로 플러그인 도입 및 맞춤 제작，삭제전에 코드 내용을 읽어볼 것 플러그인을 사용자 정의하는 방법은 이 기사를 참조 (중국어) <https://wu-kan.cn/_posts/2019-01-18-基于Jekyll搭建个人博客/>
-            - | #일부 페이지의 최적화 라벨은, 볼 수 없으면 건너뛸 수 있다.
+            - | # 일부 페이지의 최적화 라벨은, 볼 수 없으면 건너뛸 수 있다.
               <meta
                 name="viewport"
                 content="width=device-width,minimum-scale=1,initial-scale=1"
